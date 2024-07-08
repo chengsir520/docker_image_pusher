@@ -1,8 +1,6 @@
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-istio/pilot:1.22.0
-istio/proxyv2:1.22.0
+bitnami/zookeeper:3.6.3
+bitnami/kafka:2.11_2.3
 
