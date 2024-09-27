@@ -1,7 +1,6 @@
 #支持私库
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 docker.io/calico/node:v3.18.0
---platform=linux/arm64 osixia/keepalived:latest
-bitnami/kafka:2.7.0
+--platform=linux/arm64 docker.io/calico/node:v3.19.0
+
 
