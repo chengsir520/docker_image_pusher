@@ -1,7 +1,7 @@
 #支持私库
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/fluent/fluent-bit:1.9
+docker.io/zookeeper:3.9.2
 
 
 
