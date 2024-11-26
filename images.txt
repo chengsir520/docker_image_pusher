@@ -1,5 +1,4 @@
 #支持私库
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/powerjob/powerjob-server:latest
-docker.io/powerjob/powerjob-worker-samples:latest
+docker.io/tjqq/powerjob-server:latest
