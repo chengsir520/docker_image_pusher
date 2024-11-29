@@ -1,5 +1,5 @@
 #支持私库
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/bitnami/fluentd:1.9.0
+docker.io/fluent/fluentd:v1.17
 #--platform=linux/arm64 docker.io/elasticdump/elasticsearch-dump:latest 
