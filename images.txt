@@ -1,4 +1,6 @@
 #支持私库
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/onlyoffice/documentserver:latest
+docker.io/prom/prometheus:latest
+docker.io/grafana/grafana:latest
+docker.io/prom/node-exporter:latest
