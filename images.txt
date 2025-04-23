@@ -1,8 +1,6 @@
 #支持私库
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 mongo:4.0
---platform=linux/arm64 bitnami/etcd:3.5.13
---platform=linux/arm64 minio/minio:latest
---platform=linux/arm64 osixia/keepalived:latest
+mysql:5.7
+--platform=linux/arm64 ubuntu:latest
 
