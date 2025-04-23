@@ -1,7 +1,7 @@
 #支持私库
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 apacherocketmq/rocketmq-dashboard:1.0.0
+--platform=linux/arm64 apacherocketmq/rocketmq-dashboard:latest
 --platform=linux/arm64 apache/rocketmq:5.3.1
 
 
