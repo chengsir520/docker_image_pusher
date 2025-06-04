@@ -5,6 +5,7 @@
 #--platform=linux/arm64 apache/rocketmq:5.3.1
 #elastic/elasticsearch:7.17.0
 #elastic/kibana:7.17.0
-rabbitmq:3.10.5
-redis:7.0
-nginx:1.22.0
+#rabbitmq:3.10.5
+#redis:7.0
+#nginx:1.22.0
+mongo:5.0
