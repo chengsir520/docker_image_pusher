@@ -3,6 +3,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 apacherocketmq/rocketmq-dashboard:latest
 #--platform=linux/arm64 apache/rocketmq:5.3.1
-bitnami/etcd:3.5.4
+elastic/elasticsearch:7.17.0
+elastic/kibana:7.17.0
 
 
