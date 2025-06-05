@@ -7,7 +7,7 @@
 #elastic/kibana:7.17.0
 #rabbitmq:3.10.5
 #redis:7.0
-#nginx:1.22.0
+nginx:1.20.1
 #mongo:5.0
 #minio/minio:RELEASE.2023-12-13T23-28-55Z
-logstash:7.17.0
+#logstash:7.17.0
