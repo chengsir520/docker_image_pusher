@@ -3,14 +3,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 apacherocketmq/rocketmq-dashboard:latest
 #--platform=linux/arm64 apache/rocketmq:5.3.1
-#elastic/elasticsearch:7.17.0
-#elastic/kibana:7.17.0
-#rabbitmq:3.10.5
-#redis:7.0
-#nginx:1.20.1
-#mongo:5.0
-#minio/minio:RELEASE.2023-12-13T23-28-55Z
-#logstash:7.17.0
-#ubuntu:20.04
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
-registry.k8s.io/ingress-nginx/controller:v1.10.1
+zookeeper:3.4.11
