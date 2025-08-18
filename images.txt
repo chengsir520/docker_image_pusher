@@ -7,5 +7,7 @@
 #istio/proxyv2:1.13.5
 #istio/pilot:1.13.5
 #apache/apisix:2.12.1-centos
-elastic/filebeat:8.17.9
-
+#elastic/filebeat:8.17.9
+calico/kube-controllers:v3.28.5
+calico/cni:v3.28.5
+calico/node:v3.28.5
