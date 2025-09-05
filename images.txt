@@ -11,5 +11,6 @@
 #calico/kube-controllers:v3.28.5
 #calico/cni:v3.28.5
 #calico/node:v3.28.5
-webkul/krayin:2.1.0
+#webkul/krayin:2.1.0
+apache/kafka:3.5.1
 
