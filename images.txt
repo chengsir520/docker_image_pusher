@@ -13,5 +13,5 @@
 #calico/node:v3.28.5
 #webkul/krayin:2.1.0
 #apache/kafka:3.5.1
-nicolaka/netshoot:latest
+nicolaka/netshoot:v0.14
 
