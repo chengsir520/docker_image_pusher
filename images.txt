@@ -14,7 +14,8 @@
 #webkul/krayin:2.1.0
 #apache/kafka:3.5.1
 #nicolaka/netshoot:v0.14
-calico/kube-controllers:v3.25.0
-calico/cni:v3.25.0
-calico/node:v3.25.0
+#calico/kube-controllers:v3.25.0
+#calico/cni:v3.25.0
+#calico/node:v3.25.0
+--platform=linux/arm64 miraclemie/rocketmq-dashboard:1.0.0-arm64
 
