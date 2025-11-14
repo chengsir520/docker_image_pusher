@@ -17,5 +17,6 @@
 #calico/kube-controllers:v3.25.0
 #calico/cni:v3.25.0
 #calico/node:v3.25.0
---platform=linux/arm64 miraclemie/rocketmq-dashboard:1.0.0-arm64
+#--platform=linux/arm64 miraclemie/rocketmq-dashboard:1.0.0-arm64
+redis:6.2.0
 
