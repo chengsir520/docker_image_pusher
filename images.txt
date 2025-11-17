@@ -8,8 +8,7 @@
 #istio/pilot:1.20.0
 #apache/apisix:2.12.1-centos
 #elastic/filebeat:8.17.9
-#calico/kube-controllers:v3.28.5
-#calico/cni:v3.28.5
+#calico/kube-controllers:v3.28.5docker pull  grafana/grafana:12.0.1#calico/cni:v3.28.5
 #calico/node:v3.28.5
 #webkul/krayin:2.1.0
 #apache/kafka:3.5.1
@@ -19,5 +18,6 @@
 #calico/node:v3.25.0
 #--platform=linux/arm64 miraclemie/rocketmq-dashboard:1.0.0-arm64
 #redis:6.2.0
-registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
+#registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
+grafana/grafana:12.0.1
