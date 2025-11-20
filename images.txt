@@ -28,4 +28,6 @@
 #registry:2
 #postgres:14
 #minio/minio:RELEASE.2025-07-23T15-54-02Z
---platform=linux/arm64 openeuler-20.03-lts:latest
+--platform=linux/arm64 openeuler/openeuler:20.03-lts
+
+
