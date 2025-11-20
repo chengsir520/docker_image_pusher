@@ -24,4 +24,6 @@
 #grafana/loki:3.5.7
 #grafana/promtail:3.5.7
 #grafana/alloy:v1.7.5
-clickhouse/clickhouse-server:25.10
+#clickhouse/clickhouse-server:25.10
+registry:2
+
