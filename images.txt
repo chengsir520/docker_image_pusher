@@ -38,7 +38,7 @@ python:3.11-slim
 #node:20-alpine
 #alpine:latest
 #ubuntu:22.04
-chrislusf/seaweedfs:3.85
-
+#chrislusf/seaweedfs:3.85
+e2bdev/opentelemetry-collector-contrib:0.135.0-with-hugepages-metrics
 
 
