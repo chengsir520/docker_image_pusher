@@ -38,6 +38,7 @@ python:3.11-slim
 #node:20-alpine
 #alpine:latest
 #ubuntu:22.04
+chrislusf/seaweedfs:3.85
 
 
 
