@@ -29,7 +29,8 @@
 #postgres:16.11
 #minio/minio:RELEASE.2025-07-23T15-54-02Z
 #--platform=linux/arm64 openeuler/openeuler:20.03-lts
-clickhouse:25.4.5.24
+#clickhouse:25.4.5.24
+timberio/vector:0.34.X-alpine
 
 
 
