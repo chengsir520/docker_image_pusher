@@ -20,14 +20,14 @@
 #redis:6.2.0
 #registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
-#grafana/grafana:11.6.0
-#grafana/loki:3.5.7
+grafana/grafana:12.3.0
+grafana/loki:2.9.8
 #grafana/promtail:3.5.7
 #grafana/alloy:v1.7.5
 #clickhouse/clickhouse-server:25.10
 #registry:2
-#postgres:14
+postgres:16.11
 #minio/minio:RELEASE.2025-07-23T15-54-02Z
---platform=linux/arm64 openeuler/openeuler:20.03-lts
+#--platform=linux/arm64 openeuler/openeuler:20.03-lts
 
 
