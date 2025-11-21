@@ -32,10 +32,10 @@
 #clickhouse:25.4.5.24
 #timberio/vector:0.34.X-alpine
 #python:3.9-slim
-python:3.10-slim
-#python:3.11-slim
+#python:3.10-slim
+python:3.11-slim
 #node:18-alpine
-node:20-alpine
+#node:20-alpine
 #alpine:latest
 #ubuntu:22.04
 
