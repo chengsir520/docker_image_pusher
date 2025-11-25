@@ -17,7 +17,7 @@
 #calico/cni:v3.25.0
 #calico/node:v3.25.0
 #--platform=linux/arm64 miraclemie/rocketmq-dashboard:1.0.0-arm64
-redis:7.2.11
+#redis:7.2.11
 #registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
 #grafana/grafana:12.3.0
@@ -40,5 +40,6 @@ python:3.11-slim
 #ubuntu:22.04
 #chrislusf/seaweedfs:3.85
 #e2bdev/opentelemetry-collector-contrib:0.135.0-with-hugepages-metrics
+docker.io/prom/prometheus:v3.7.3
 
 
