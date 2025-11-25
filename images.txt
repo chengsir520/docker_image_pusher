@@ -40,6 +40,7 @@ python:3.11-slim
 #ubuntu:22.04
 #chrislusf/seaweedfs:3.85
 #e2bdev/opentelemetry-collector-contrib:0.135.0-with-hugepages-metrics
-docker.io/prom/prometheus:v3.7.3
+#docker.io/prom/prometheus:v3.7.3
+timberio/vector:nightly-2025-11-25-alpine
 
 
