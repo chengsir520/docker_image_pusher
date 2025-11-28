@@ -3,7 +3,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 apacherocketmq/rocketmq-dashboard:latest
 #--platform=linux/arm64 apache/rocketmq:5.3.1
-opensearchproject/opensearch:2.7
+opensearchproject/opensearch:2.7.0
 #istio/proxyv2:1.20.0
 #istio/pilot:1.20.0
 #apache/apisix:2.12.1-centos
