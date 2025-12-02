@@ -3,7 +3,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 apacherocketmq/rocketmq-dashboard:latest
 #--platform=linux/arm64 apache/rocketmq:5.3.1
-opensearchproject/opensearch:2.7.0
+#opensearchproject/opensearch:2.7.0
 #istio/proxyv2:1.20.0
 #istio/pilot:1.20.0
 #apache/apisix:2.12.1-centos
@@ -42,5 +42,18 @@ opensearchproject/opensearch:2.7.0
 #e2bdev/opentelemetry-collector-contrib:0.135.0-with-hugepages-metrics
 #docker.io/prom/prometheus:v3.7.3
 #timberio/vector:nightly-2025-11-25-alpine
+supabase/studio:2025.11.26-sha-8f096b5
+kong:2.8.1
+supabase/gotrue:v2.183.0
+postgrest/postgrest:v13.0.7
+supabase/realtime:v2.65.3
+supabase/storage-api:v1.32.0
+darthsim/imgproxy:v3.8.0
+supabase/postgres-meta:v0.93.1
+supabase/edge-runtime:v1.69.25
+supabase/logflare:1.26.13
+supabase/postgres:15.8.1.085
+supabase/supavisor:2.7.4
+
 
 
