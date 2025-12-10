@@ -53,9 +53,18 @@
 #supabase/logflare:1.26.13
 #supabase/postgres:15.8.1.085
 #supabase/supavisor:2.7.4
-bash:latest
-golang:1.25.4
-alpine:3.22
-
+#bash:latest
+#golang:1.25.4
+#alpine:3.22
+#clickhouse:25.4.5.24
+#grafana/grafana:12.0.0
+#grafana/loki:3.4.1
+grafana/mimir:2.17.1
+grafana/tempo:2.8.2
+#otel/opentelemetry-collector-contrib:0.135.0
+postgres:17.4
+#redis:7.4.2
+memcached:1.6.38
+#timberio/vector:0.34.X-alpine
 
 
