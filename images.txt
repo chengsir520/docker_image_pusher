@@ -26,7 +26,7 @@
 #grafana/alloy:v1.7.5
 #clickhouse/clickhouse-server:25.10
 #registry:2
-#postgres:16.11
+postgres:16.11
 minio/minio:RELEASE.2025-04-22T22-12-26Z
 #--platform=linux/arm64 openeuler/openeuler:20.03-lts
 #clickhouse:25.4.5.24
@@ -59,8 +59,8 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 #clickhouse:25.4.5.24
 #grafana/grafana:12.0.0
 #grafana/loki:3.4.1
-grafana/mimir:2.17.1
-grafana/tempo:2.8.2
+#grafana/mimir:2.17.1
+#grafana/tempo:2.8.2
 #otel/opentelemetry-collector-contrib:0.135.0
 #postgres:17.4
 #redis:7.4.2
