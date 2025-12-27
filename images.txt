@@ -64,7 +64,8 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 #otel/opentelemetry-collector-contrib:0.135.0
 #postgres:17.4
 #redis:7.4.2
-memcached:1.6.38
+#memcached:1.6.38
 #timberio/vector:0.34.X-alpine
+clickhouse/clickhouse-server:25.4.5.24
 
 
