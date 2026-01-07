@@ -26,8 +26,8 @@
 #grafana/alloy:v1.7.5
 #clickhouse/clickhouse-server:25.10
 #registry:2
-postgres:16.11
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+#postgres:16.11
+#minio/minio:RELEASE.2025-04-22T22-12-26Z
 #--platform=linux/arm64 openeuler/openeuler:20.03-lts
 #clickhouse:25.4.5.24
 #timberio/vector:0.34.X-alpine
@@ -66,6 +66,6 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 #redis:7.4.2
 #memcached:1.6.38
 #timberio/vector:0.34.X-alpine
-clickhouse/clickhouse-server:25.4.5.24
-
+#clickhouse/clickhouse-server:25.4.5.24
+timberio/vector:0.28.1-alpine
 
